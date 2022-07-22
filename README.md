@@ -21,6 +21,9 @@ This is a project i had to implement in the course of Operating Systems[2021-202
  ,τρεχει στο δικο μου φλοιο με το συγκεκριμενο ονομα mysh , εμφανιζοντας επισης το Home  Directory μου και το User Name μου , οπως και ενα μηνυμα περιμενοντας τον χρηστη να δωσει  εντολη.Την συγκεκριμενη διαδικασια καταφερα να την υλοποιησω μεσω των συναρτησεων :  void name και void user_and_directory , τις οποιες χρησιμοποιω στο main προγραμμα. 
  
 ❏   Υποστήριξη log 
+
+![image](https://user-images.githubusercontent.com/92748811/180448954-95126a4d-8807-4fd8-96a3-ee5bc9813068.png)
+
  
  
  
